@@ -2,7 +2,7 @@
 ---------------------------------
 
 
-<img src="../img/Logo_EPI_Sousse.png" width="100" height="100">
+<img src="/img/Logo_EPI_Sousse.png" width="100" height="100">
 
 --------------------------------------------
 
